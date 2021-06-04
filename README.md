@@ -10,7 +10,7 @@ Built a neural network which predicts daily bikesharing patterns. Predictions ma
 
 Below shows a graph comparing the real data with the patterns predicted through the neural network: 
 
-<img src="https://github.com/yunjia1/Deep-Learning/blob/main/files/bikesharing-%20predictions%20vs.%20real%20data.png" />
+<img src="https://github.com/yunjia1/Deep-Learning/blob/main/file/bikesharing-%20predictions%20vs.%20real%20data.png" />
 
 ### 2. Landmark Classification & Tagging for Social Media
 
