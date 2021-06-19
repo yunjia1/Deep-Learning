@@ -21,6 +21,12 @@ Wrote an algorithm for Landmark Classification. The project is composed of 4 par
 3. Create a CNN to Classify Landmarks (using Transfer Learning)
 4. Write Your Landmark Prediction Algorithm
 
+
+### 3. Generate TV Scripts 
+
+Makes use of LSTMS and TV Scripts from the Seinfeld dataset to generate new TV scripts. The model was ultimately able to generate the scripts with a loss of 3.43. Iterating through more epochs is likely to improve the accuracy of the model in generating realistic and feasible scripts. 
+
+
 ## Credits 
 
 Udacity, 2021
