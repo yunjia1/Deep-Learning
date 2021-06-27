@@ -26,6 +26,10 @@ Wrote an algorithm for Landmark Classification. The project is composed of 4 par
 
 Makes use of LSTMS and TV Scripts from the Seinfeld dataset to generate new TV scripts. The model was ultimately able to generate the scripts with a loss of 3.43. Iterating through more epochs is likely to improve the accuracy of the model in generating realistic and feasible scripts. 
 
+### 4. Generate Faces 
+
+Makes use of a Deep Convolutional Generative Adversarial Network (DCGAN) on a training set of celebrity faces to generate fake faces. The project consists of data loading and pre-processing, creating the generator and discriminator classes, as well as training the network. After 50 epochs, fake faces are generated at the end of the file. 
+
 
 ## Credits 
 
