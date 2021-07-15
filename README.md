@@ -30,6 +30,9 @@ Makes use of LSTMS and TV Scripts from the Seinfeld dataset to generate new TV s
 
 Makes use of a Deep Convolutional Generative Adversarial Network (DCGAN) on a training set of celebrity faces to generate fake faces. The project consists of data loading and pre-processing, creating the generator and discriminator classes, as well as training the network. After 50 epochs, fake faces are generated at the end of the file. 
 
+### 5. Deploying a Sentiment Analysis Model 
+
+Train and deploy your own PyTorch sentiment analysis model. Deployment gives you the ability to use a trained model to analyze new, user input. Build a model, deploy it, and create a gateway for accessing it from a website.
 
 ## Credits 
 
